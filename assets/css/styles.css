@@ -1,0 +1,63 @@
+.header{
+    background-color: black;
+    background-size: cover;
+    margin: 0px;
+}
+.div1{
+    display: flex;
+    margin: 0px;
+    justify-content: center;
+    background-image: url(../img/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#header1{
+    position: relative;
+    text-align: center;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100px;
+    padding: 130px;
+    color: aliceblue;
+}
+input, select {
+    width: 60%;
+    padding: 5px 10px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+.formulario{
+    margin: 30px 100px;
+    align-items: center;
+    text-align: end;
+    justify-content: center;
+    background-color: white;
+    position: relative;
+    padding: 50px;
+    left: 500px;
+    margin-right: 1000px;
+}
+#juntos{
+    display: inline-block;
+    padding: 0 0;
+    margin: 0 0;
+}
+.div2{
+    align-content: center;
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    margin-left: 280px;
+}
+#azulito{
+    color: cyan;
+}
+button{
+    background-color: cyan;
+    border-radius: 4px
+}
